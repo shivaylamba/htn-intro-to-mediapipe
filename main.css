@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.navbar {
+	padding: 0.5rem 1rem;
+}
+.navbar a {
+	text-decoration: none;
+	font-size: 1.5rem;
+	color: #555;
+	font-weight: bold;
+}
+.button-container {
+	margin: 2rem 0;
+	text-align: center;
+}
+a.upload-btn {
+	text-decoration: none;
+	padding: 0.4rem 0.8rem;
+	border-radius: 3px;
+	background-color: #1a73e8;
+	color: #fff;
+}
