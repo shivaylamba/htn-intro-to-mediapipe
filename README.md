@@ -11,4 +11,4 @@ This is a repository created for the Hack The North Workshop on [Introduction to
 2. [COCO-SSD CDN](https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd)
 
 ## Implementation
-![Screenshot](![image](https://user-images.githubusercontent.com/19529592/104700232-d9936500-5739-11eb-980a-d726b5da116d.png)
+(![image](https://user-images.githubusercontent.com/19529592/104700232-d9936500-5739-11eb-980a-d726b5da116d.png)
