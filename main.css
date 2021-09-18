@@ -19,7 +19,7 @@ body {
 	margin: 2rem 0;
 	text-align: center;
 }
-a.upload-btn {
+button.upload-btn {
 	text-decoration: none;
 	padding: 0.4rem 0.8rem;
 	border-radius: 3px;
