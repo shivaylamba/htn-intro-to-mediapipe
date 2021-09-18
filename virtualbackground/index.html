@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils@0.3/camera_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/selfie_segmentation@0.1/selfie_segmentation.js" crossorigin="anonymous"></script>
+  
+  <link rel="stylesheet" type="text/css" href="./index.css">
+</head>
+<body>
+
+
+  <div class="container">
+    <img id="vbackground" width="220" height="277" src="https://image.freepik.com/free-photo/grey-sofa-simple-living-room-interior-3d-rendering_41470-3898.jpg" alt="The Scream">
+    <video class="input_video"></video>
+    <div class="canvas-container">
+      <canvas class="output_canvas" width="1280px" height="720px">
+      </canvas>
+    </div>
+  </div>
+
+</body>
+<script type="text/javascript" src="./index.js"></script>
+</html>
